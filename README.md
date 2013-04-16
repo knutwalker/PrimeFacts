@@ -3,6 +3,8 @@ Prime Factors
 
 This small package allows for generation of prime factors.
 
+It is implemented in Scala and uses only functinal programming principles.
+
 The prime factors of a positive integer are the prime numbers that divide
 that integer exactly, the process if finding these is called
 prime factorization.
